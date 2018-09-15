@@ -1,3 +1,6 @@
+# Project Objective
+Predict loan outcome status of a loan for Lending Club. Machine Learning models were trained using the Lending Club 2016 Quarter 1 data and 2016 Quarter 2 data was used as test dataset. 
+
 # LendingClub
 
 Lending club is the world's largest peer-to-peer lending platform which uses technology to create a credit
